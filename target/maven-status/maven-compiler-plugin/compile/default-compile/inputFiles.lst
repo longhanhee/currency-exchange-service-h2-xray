@@ -1,0 +1,8 @@
+D:\Learning-ECS-Microservice\deploy-spring-microservices-to-aws-ecs-fargate\06-currency-exchange-service-h2-xray\src\main\java\com\in28minutes\microservices\currencyexchangeservice\util\containerservice\ContainerMetaDataService.java
+D:\Learning-ECS-Microservice\deploy-spring-microservices-to-aws-ecs-fargate\06-currency-exchange-service-h2-xray\src\main\java\com\in28minutes\microservices\currencyexchangeservice\xray\AwsXrayConfig.java
+D:\Learning-ECS-Microservice\deploy-spring-microservices-to-aws-ecs-fargate\06-currency-exchange-service-h2-xray\src\main\java\com\in28minutes\microservices\currencyexchangeservice\CurrencyExchangeServiceApplicationH2.java
+D:\Learning-ECS-Microservice\deploy-spring-microservices-to-aws-ecs-fargate\06-currency-exchange-service-h2-xray\src\main\java\com\in28minutes\microservices\currencyexchangeservice\resource\CurrencyExchangeController.java
+D:\Learning-ECS-Microservice\deploy-spring-microservices-to-aws-ecs-fargate\06-currency-exchange-service-h2-xray\src\main\java\com\in28minutes\microservices\currencyexchangeservice\resource\ExchangeValueRepository.java
+D:\Learning-ECS-Microservice\deploy-spring-microservices-to-aws-ecs-fargate\06-currency-exchange-service-h2-xray\src\main\java\com\in28minutes\microservices\currencyexchangeservice\resource\ExchangeValue.java
+D:\Learning-ECS-Microservice\deploy-spring-microservices-to-aws-ecs-fargate\06-currency-exchange-service-h2-xray\src\main\java\com\in28minutes\microservices\currencyexchangeservice\xray\XRayInspector.java
+D:\Learning-ECS-Microservice\deploy-spring-microservices-to-aws-ecs-fargate\06-currency-exchange-service-h2-xray\src\main\java\com\in28minutes\microservices\currencyexchangeservice\util\logging\EnvironmentConfigurationLogger.java
